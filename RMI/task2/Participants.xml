@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<RegisteredConferees>
+	<Conferee>
+		<name>Ivan</name>
+		<surname>Ivanov</surname>
+		<organization>HNU</organization>
+		<report>Analyse</report>
+		<email>ivan123@i.ua</email>
+	</Conferee>
+	<Conferee>
+		<name>Dima</name>
+		<surname>Sheva</surname>
+		<organization>HNU</organization>
+		<report>Sport life</report>
+		<email>dimyich@i.ua</email>
+	</Conferee>
+</RegisteredConferees>

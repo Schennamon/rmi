@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="Windows-1251" standalone="no"?>
+<RegisteredConferees>
+    <Conferee>
+        <name>Ivan</name>
+        <surname>Ivanov</surname>
+        <organization>HNU</organization>
+        <report>Analyse</report>
+        <email>ivan123@i.ua</email>
+    </Conferee>
+    <Conferee>
+        <name>Dima</name>
+        <surname>Sheva</surname>
+        <organization>HNU</organization>
+        <report>Sport life</report>
+        <email>dimyich@i.ua</email>
+    </Conferee>
+    <Conferee>
+        <name>Имя</name>
+        <surname>Фамилия</surname>
+        <organization>Место работы</organization>
+        <report>Цель доклада</report>
+        <email>Почта</email>
+    </Conferee>
+    <Conferee>
+        <name>1</name>
+        <surname>2</surname>
+        <organization>3</organization>
+        <report>4</report>
+        <email>5</email>
+    </Conferee>
+</RegisteredConferees>
